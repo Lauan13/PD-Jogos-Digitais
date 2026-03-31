@@ -846,8 +846,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: PD-Jogos Digitais
-  metroPackageVersion: 
+  metroPackageName: PD-JogosDigitais
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -855,7 +855,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: PD-Jogos Digitais
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: PD-Jogos Digitais
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
